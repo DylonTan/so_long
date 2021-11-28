@@ -20,5 +20,5 @@ How to do a full clean:
 #### S - `Move down`
 #### D - `Move right`
 
-Project from 42KL cursus
+Project from 42KL cursus \
 More info: https://42kl.edu.my/
