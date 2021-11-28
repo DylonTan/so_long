@@ -22,5 +22,5 @@ How to do a full clean:
 
 ## References
 Project from 42KL cursus \
-More info: https://42kl.edu.my/
+More info: https://42kl.edu.my/ \
 Minilibx: https://harm-smits.github.io/42docs/libs/minilibx/introduction.html
