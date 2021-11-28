@@ -15,10 +15,10 @@ How to do a full clean:
 ### `make fclean`
 
 ## Controls & Keybinds
-### W - Move up
-### A - Move left
-### S - Move down
-### D - Move right
+W - Move up \
+A - Move left \
+S - Move down \
+D - Move right \
 
 Project from 42KL cursus
 More info: https://42kl.edu.my/
